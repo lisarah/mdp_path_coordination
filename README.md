@@ -2,4 +2,5 @@
 
 This repository contains the multi-agent path coordination model and solution via Markov decision process congestion games.  See https://arxiv.org/abs/2203.12133 for implementation and modeling details. 
 
-![grid_world_clean](https://user-images.githubusercontent.com/14250787/177344070-cab68f9c-7676-4ef7-984c-becac92b1147.png)
+
+![collision_avoiding_gif](https://user-images.githubusercontent.com/14250787/177344278-7312b291-0ec0-4d4e-90c1-6de6006b048c.gif)
